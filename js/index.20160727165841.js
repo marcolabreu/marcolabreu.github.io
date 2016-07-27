@@ -6,9 +6,9 @@ function em1(){var c="nbsdpbouupoojpAhnbjm/dpn";var addr="mailto:";for(var i=0;i
 
 $(document).ready(function() {
 if(! document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
-$('.js-13').attr('src', 'images/linkedin-white-logo-20.png');
-$('.js-14').attr('src', 'images/flickr-white-logo-20.png');
-$('.js-15').attr('src', 'images/mail-white-logo-20.png');
+$('.js-13').attr('src', 'images/linkedin-white-logo-60.png');
+$('.js-14').attr('src', 'images/flickr-white-logo-60.png');
+$('.js-15').attr('src', 'images/mail-white-logo-60.png');
 
 }
 if('ontouchstart' in window) { $("html").addClass("nofixed"); }var wl = new woolite();
