@@ -26,7 +26,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .animated{-webkit-animation-fill-mode:both;animation-fill-mode:both}.animated.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}
 @-webkit-keyframes fadeIn{from{opacity:0}to{opacity:1}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn}
 @font-face{font-family:"FontAwesome";src:url('fontawesome-webfont.eot');src:url('fontawesome-webfont.eot?#iefix') format('embedded-opentype'), url('fontawesome-webfont.woff') format('woff'), url('fontawesome-webfont.ttf') format('truetype'), url('fontawesome-webfont.svg#FontAwesome') format('svg');font-weight:400;}
-#body{background-color:rgb(221,36,36);}
+#body{background-color:rgb(204,36,36);}
 .vis{display:inline-block;vertical-align:top;}
 .pos{position:relative;margin-top:0;}
 .size{width:100%;min-width:1200px;min-height:560px;height:560px;}
@@ -72,12 +72,12 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .size-13{min-width:1200px;width:1200px;min-height:158px;}
 .cont-12{z-index:6;}
 .para-2{padding-top:0;text-indent:0;margin-top:-14.16pt;margin-bottom:14.16pt;padding-right:0;text-align:center;word-wrap:break-word;}
-.font-3{font-family:"Abril Fatface";font-size:105.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(221,36,36);line-height:113.32pt;letter-spacing:normal;}
+.font-3{font-family:"Abril Fatface";font-size:105.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(204,36,36);line-height:113.32pt;letter-spacing:normal;}
 .pos-15{position:relative;margin-left:0;margin-top:-63px;}
 .size-14{min-width:1200px;width:1200px;min-height:318px;}
 .cont-13{z-index:5;}
 .para-3{padding-top:0;text-indent:0;margin-top:-28.33pt;margin-bottom:28.33pt;padding-right:0;text-align:center;word-wrap:break-word;}
-.font-4{font-family:"Abril Fatface";font-size:210.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(221,36,36);line-height:226.63pt;letter-spacing:normal;}
+.font-4{font-family:"Abril Fatface";font-size:210.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(204,36,36);line-height:226.63pt;letter-spacing:normal;}
 .pos-16{position:relative;margin-left:910px;margin-top:-54px;}
 .size-15{min-width:280px;width:280px;min-height:60px;}
 .cont-14{z-index:12;}
@@ -132,11 +132,11 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .size-12{min-width:960px;width:960px;min-height:330px;}
 .size-13{min-width:960px;width:960px;min-height:126px;}
 .para-2{margin-top:-11.33pt;margin-bottom:11.33pt;}
-.font-3{font-size:84.00pt;line-height:90.65pt;}
+.font-3{font-size:84.00pt;color:rgb(221,36,36);line-height:90.65pt;}
 .pos-15{margin-top:-50px;}
 .size-14{min-width:960px;width:960px;min-height:254px;}
 .para-3{margin-top:-22.66pt;margin-bottom:22.66pt;}
-.font-4{font-size:168.00pt;line-height:181.31pt;}
+.font-4{font-size:168.00pt;color:rgb(221,36,36);line-height:181.31pt;}
 .pos-16{margin-left:728px;margin-top:-43px;}
 .size-15{min-width:224px;width:224px;min-height:48px;}
 .size-16{min-width:48px;width:48px;min-height:48px;height:48px;}
@@ -187,11 +187,11 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .size-12{min-width:768px;width:768px;min-height:267px;}
 .size-13{min-width:768px;width:768px;min-height:101px;}
 .para-2{margin-top:-9.11pt;margin-bottom:9.11pt;}
-.font-3{font-size:67.50pt;line-height:72.85pt;}
+.font-3{font-size:67.50pt;color:rgb(221,36,36);line-height:72.85pt;}
 .pos-15{margin-top:-38px;}
 .size-14{min-width:768px;width:768px;min-height:204px;}
 .para-3{margin-top:-18.11pt;margin-bottom:18.11pt;}
-.font-4{font-size:134.25pt;line-height:144.88pt;}
+.font-4{font-size:134.25pt;color:rgb(221,36,36);line-height:144.88pt;}
 .pos-16{margin-left:576px;margin-top:5px;}
 .size-15{min-width:180px;width:180px;min-height:39px;}
 .size-16{min-width:39px;width:39px;min-height:39px;height:39px;}
@@ -242,11 +242,11 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .size-12{min-width:480px;width:480px;min-height:166px;}
 .size-13{min-width:480px;width:480px;min-height:66px;}
 .para-2{margin-top:-4.05pt;margin-bottom:4.05pt;}
-.font-3{font-size:30.00pt;line-height:32.38pt;}
+.font-3{font-size:30.00pt;color:rgb(221,36,36);line-height:32.38pt;}
 .pos-15{margin-top:-33px;}
 .size-14{min-width:480px;width:480px;min-height:133px;}
 .para-3{margin-top:-9.11pt;margin-bottom:9.11pt;}
-.font-4{font-size:67.50pt;line-height:72.85pt;}
+.font-4{font-size:67.50pt;color:rgb(221,36,36);line-height:72.85pt;}
 .pos-16{margin-left:332px;margin-top:-53px;}
 .size-15{min-width:133px;width:133px;min-height:30px;}
 .size-16{min-width:30px;width:30px;min-height:30px;height:30px;}
@@ -297,11 +297,11 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .size-12{min-width:320px;width:320px;min-height:116px;}
 .size-13{min-width:320px;width:320px;min-height:44px;}
 .para-2{margin-top:-3.74pt;margin-bottom:3.74pt;}
-.font-3{font-size:27.75pt;line-height:29.95pt;}
+.font-3{font-size:27.75pt;color:rgb(221,36,36);line-height:29.95pt;}
 .pos-15{margin-top:-17px;}
 .size-14{min-width:320px;width:320px;min-height:89px;}
 .para-3{margin-top:-7.59pt;margin-bottom:7.59pt;}
-.font-4{font-size:56.25pt;line-height:60.71pt;}
+.font-4{font-size:56.25pt;color:rgb(221,36,36);line-height:60.71pt;}
 .pos-16{margin-left:83px;margin-top:31px;}
 .size-15{min-width:154px;width:154px;min-height:40px;}
 .size-16{min-width:40px;width:40px;min-height:40px;height:40px;}
