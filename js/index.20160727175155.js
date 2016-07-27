@@ -13,12 +13,12 @@ $('.js-21').attr('src', 'images/mail-white-logo-60.png');
 }
 if('ontouchstart' in window) { $("html").addClass("nofixed"); }var wl = new woolite();
 wl.init();
-wl.addAnimation($('.js')[0], "0.70s", "0.00s", 1, 100);
-wl.addAnimation($('.js-2')[0], "0.70s", "1.00s", 1, 100);
-wl.addAnimation($('.js-3')[0], "0.70s", "2.00s", 1, 100);
-wl.addAnimation($('.js-4')[0], "0.70s", "3.00s", 1, 100);
-wl.addAnimation($('.js-5')[0], "0.70s", "4.00s", 1, 100);
-wl.addAnimation($('.js-6')[0], "3.00s", "6.00s", 1, 100);
+wl.addAnimation($('.js')[0], "1.00s", "0.50s", 1, 100);
+wl.addAnimation($('.js-2')[0], "1.00s", "1.50s", 1, 100);
+wl.addAnimation($('.js-3')[0], "1.00s", "2.50s", 1, 100);
+wl.addAnimation($('.js-4')[0], "1.00s", "3.50s", 1, 100);
+wl.addAnimation($('.js-5')[0], "1.00s", "4.50s", 1, 100);
+wl.addAnimation($('.js-6')[0], "3.00s", "6.50s", 1, 100);
 wl.start();
 
 });
